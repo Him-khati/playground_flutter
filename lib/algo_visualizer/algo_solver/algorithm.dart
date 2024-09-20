@@ -1,0 +1,4 @@
+
+enum Algorithm{
+  bubble
+}
